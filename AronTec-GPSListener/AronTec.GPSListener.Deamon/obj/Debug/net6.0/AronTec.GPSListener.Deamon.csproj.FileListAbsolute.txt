@@ -1,0 +1,12 @@
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AronTec-GPSListener\AronTec-GPSListener\AronTec.GPSListener.Deamon\bin\Debug\net6.0\AronTec.GPSListener.Deamon.deps.json
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AronTec-GPSListener\AronTec-GPSListener\AronTec.GPSListener.Deamon\bin\Debug\net6.0\AronTec.GPSListener.Deamon.dll
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AronTec-GPSListener\AronTec-GPSListener\AronTec.GPSListener.Deamon\bin\Debug\net6.0\AronTec.GPSListener.Deamon.pdb
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AronTec-GPSListener\AronTec-GPSListener\AronTec.GPSListener.Deamon\obj\Debug\net6.0\AronTec.GPSListener.Deamon.csproj.AssemblyReference.cache
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AronTec-GPSListener\AronTec-GPSListener\AronTec.GPSListener.Deamon\obj\Debug\net6.0\AronTec.GPSListener.Deamon.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AronTec-GPSListener\AronTec-GPSListener\AronTec.GPSListener.Deamon\obj\Debug\net6.0\AronTec.GPSListener.Deamon.AssemblyInfoInputs.cache
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AronTec-GPSListener\AronTec-GPSListener\AronTec.GPSListener.Deamon\obj\Debug\net6.0\AronTec.GPSListener.Deamon.AssemblyInfo.cs
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AronTec-GPSListener\AronTec-GPSListener\AronTec.GPSListener.Deamon\obj\Debug\net6.0\AronTec.GPSListener.Deamon.csproj.CoreCompileInputs.cache
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AronTec-GPSListener\AronTec-GPSListener\AronTec.GPSListener.Deamon\obj\Debug\net6.0\AronTec.GPSListener.Deamon.dll
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AronTec-GPSListener\AronTec-GPSListener\AronTec.GPSListener.Deamon\obj\Debug\net6.0\refint\AronTec.GPSListener.Deamon.dll
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AronTec-GPSListener\AronTec-GPSListener\AronTec.GPSListener.Deamon\obj\Debug\net6.0\AronTec.GPSListener.Deamon.pdb
+C:\MyDrive\WorkDesk\MyProject\AronTec-Group\AronTec-GPSListener\AronTec-GPSListener\AronTec.GPSListener.Deamon\obj\Debug\net6.0\ref\AronTec.GPSListener.Deamon.dll
